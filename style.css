@@ -34,8 +34,7 @@ body {
 	}
 		main section {
 			background-color: gray;
-			padding: 20px;
-			box-sizing: border-box;
+			padding: 10px;
 			text-align: center;
 		}
 
