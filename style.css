@@ -33,6 +33,8 @@ body {
 		vertical-align: top;
 	}
 		main section {
+			display: inline-block; 
+			vertical-align: top;
 			background-color: gray;
 			padding: 10px;
 			text-align: center;
